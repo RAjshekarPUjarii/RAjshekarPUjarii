@@ -1,4 +1,4 @@
-### Hii  I am Rajshekar pujari👋
+### Hii 👋, I am Rajshekar pujari
 -------
 ## About me
  🔭 I’m currently working on my final year project
