@@ -9,7 +9,7 @@
  
  💬 Ask me about JavaScript, Reactjs and Java ....
  
- 📫 How to reach me:Feel free to contact me via email at rajshekarpujari02@gmai.com.
+ 📫 How to reach me:Feel free to contact me via email at rajshekarpujari02@gmail.com
  
  😄 Pronouns: He/Him
  
