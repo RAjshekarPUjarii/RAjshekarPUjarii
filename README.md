@@ -7,7 +7,7 @@
  
  👯 I’m looking to collaborate on  projects related to frontend or backend
  
- 💬 Ask me about JavaScript, Reactjs and Java ..... 
+ 💬 Ask me about JavaScript, Reactjs and Java ... 
  
  📫 How to reach me:Feel free to contact me via email at rajshekarpujari02@gmail.com
  
