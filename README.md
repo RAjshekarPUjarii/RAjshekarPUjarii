@@ -5,7 +5,7 @@
  
  🌱 I’m currently learning Reactjs, SpringBoot and DSA
  
- 👯 I’m looking to collaborate on  projects related to frontend or backend
+ 👯 I’m looking to collaborate on  projects related to frontend...
  
  💬 Ask me about JavaScript, Reactjs and Java .  
  
