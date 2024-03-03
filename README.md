@@ -13,5 +13,4 @@
  
  😄 Pronouns: He/Him
  
- ⚡ Fun fact: I'm passionate about coding and problem-solving challenges creatively!! 
-
+ ⚡ Fun fact: I'm passionate about coding and problem-solving challenges creatively!
