@@ -3,7 +3,7 @@
 ## About me
  🔭 I’m currently working on my final year project and personal project
  
- 🌱 I’m currently learning Reactjs, SpringBoot and DSA
+ 🌱 I’m currently learning Reactjs and DSA
  
  👯 I’m looking to collaborate on  projects related to frontend...
  
